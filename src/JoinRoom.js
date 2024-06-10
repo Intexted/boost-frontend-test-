@@ -122,7 +122,7 @@ const JoinRoom = () => {
       )}
       <video ref={localVideoRef} autoPlay muted />
       <video ref={remoteVideoRef} autoPlay />
-      <Avatar />
+      {/* <Avatar /> */}
     </div>
   );
 };
