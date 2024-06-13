@@ -11,6 +11,8 @@
 # production
 /build
 
+/public/showcase-bundle
+
 # misc
 .DS_Store
 .env.local
